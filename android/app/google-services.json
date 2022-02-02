@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "771932681722",
+    "project_id": "instgramclone-cbd24",
+    "storage_bucket": "instgramclone-cbd24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771932681722:android:3f5c33b3b0946ba8526043",
+        "android_client_info": {
+          "package_name": "com.example.instgramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771932681722-diuoeqg6bfgm57k874ul29ljlej8djr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMiaHz5DdcnQUgiZsX2w47C5WNty51fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771932681722-diuoeqg6bfgm57k874ul29ljlej8djr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771932681722-s8ev8sv71aol8mc4q3o6t5orsd4jcm3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instgramclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
